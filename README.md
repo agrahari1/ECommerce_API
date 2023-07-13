@@ -14,7 +14,7 @@ STEPS TO USE THE API:
 
 STEPS TO CREATE A NEW PRODUCT: 
 1) start the server using node app.js
-2) Open postman
+2) Open Thunder Client .
 3) put localhost:3000/products/create as the url. 
 4) Select Body tab below the url textarea and then select x-www-form-urlencoded
 5) Add name & quantity as the keys and set the desired values for the keys.
