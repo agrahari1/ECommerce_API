@@ -8,13 +8,13 @@ This is an E-commerce API made using Node.Js & MongoDB.
 STEPS TO USE THE API:
 1) run "npm init" command on terminal in this projects directory
 2) start the server using node app.js
-3) Open postman
+3) Open Thunder Client 
 4) Make a GET request on localhost:3000/products
 5) The products should be visible
 
 STEPS TO CREATE A NEW PRODUCT: 
 1) start the server using node app.js
-2) Open Thunder Client .
+2) Open Thunder Client 
 3) put localhost:3000/products/create as the url. 
 4) Select Body tab below the url textarea and then select x-www-form-urlencoded
 5) Add name & quantity as the keys and set the desired values for the keys.
